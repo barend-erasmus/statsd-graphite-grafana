@@ -16,6 +16,8 @@ Graphite is an enterprise-ready monitoring tool that runs equally well on cheap 
 
 Grafana is an open source metric analytics & visualization suite. It is most commonly used for visualizing time series data for infrastructure and application analytics but many use it in other domains including industrial sensors, home automation, weather, and process control.
 
+![](https://github.com/barend-erasmus/statsd-graphite-grafana/raw/master/images/screenshot.png.png)
+
 ## Grafana Demo Links
 
 [Grafana](http://play.grafana.org/dashboard/db/grafana-play-home?orgId=1)
